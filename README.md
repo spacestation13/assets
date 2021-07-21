@@ -1,0 +1,2 @@
+# assets
+Shared community assets
